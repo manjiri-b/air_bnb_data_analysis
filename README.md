@@ -1,4 +1,4 @@
-# air_bnb_data_analysis
+# Air BnB Data Analysis
 Analyzed Air BnB Data using pandas, matplotlib and numpy
 
 # Inquiries:
