@@ -9,4 +9,8 @@ Analyzed Air BnB Data in 2 ways: using python and SQL
 5. Most expensive and least expensive listing overall in terms of minimum expenditure?
 6. Geo location distribution of the Air BnBs?
 
-# Inquiries for SQL in Report.md file.
+# SQL Analysis:
+1. Designed a table based on data (create_table.sql)
+2. Imported csv into database (import_csv.sql)
+3. Ran a few simple queries (queries.sql)
+4. Wrote about the results of your queries (report.md)
