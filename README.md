@@ -13,4 +13,4 @@ Analyzed Air BnB Data in 2 ways: using python and SQL
 1. Designed a table based on data (create_table.sql)
 2. Imported csv into database (import_csv.sql)
 3. Ran a few simple queries (queries.sql)
-4. Wrote about the results of your queries (report.md)
+4. Wrote about the results of queries (report.md)
